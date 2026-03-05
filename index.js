@@ -1,4 +1,2 @@
-function greet() {
-    console.log("Hello Git");
-}
-greet();
+
+console.log("Hello Git");
